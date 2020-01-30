@@ -1,4 +1,3 @@
-#!/bin/bash
 # apt-get install ninja-build libprotobuf-dev protobuf-compiler -y
 
 wget -c https://github.com/semblack/kaggle/raw/master/kaggle
